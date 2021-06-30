@@ -84,7 +84,7 @@ img {
     border-color: darkgreen;
 }
 
-@media (max-width:1028px) {
+@media (max-width:455px) {
     .row{
         padding: 7%;
     }
